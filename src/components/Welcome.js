@@ -4,7 +4,7 @@ const Welcome=({name})=>{
   return(
     <div>
     <h2>Welcome to Newton School</h2>
-    <h1>hey {name}!</h1>
+    <h1>Hey {name}!</h1>
     </div>
   );
 };
